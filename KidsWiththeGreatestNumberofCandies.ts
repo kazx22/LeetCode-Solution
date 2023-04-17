@@ -6,7 +6,3 @@ function kidsWithCandies(candies: number[], extraCandies: number): boolean[] {
   });
   return result;
 }
-
-let candies = [2, 3, 5, 1, 3],
-  extraCandies = 3;
-console.log(kidsWithCandies(candies, extraCandies));
